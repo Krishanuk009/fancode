@@ -1,10 +1,12 @@
 #EXTM3U
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 6 September 2026 at 10:14:08 am
-#EXTINF:-1 tvg-id="4248623" tvg-name="Nepal Vs Saudi Arabia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248623_53050_NEP_SDA_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | Nepal Vs Saudi Arabia
-https://dai-fancode.pages.dev/mumbai/4248623_english_hls_a54663041d38162_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248624" tvg-name="United Arab Emirates Vs Singapore" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248624_53050_UAE_SIN_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | United Arab Emirates Vs Singapore
-https://dai-fancode.pages.dev/mumbai/4248624_english_hls_1c34e1ec6048647_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4249073" tvg-name="Doiwala Kings Vs Rishikesh Dragons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249073_53058_DK_RD_fc-Web_fc-webtvbg.jpg" tvg-language="English" group-title="Cricket",ENG | Doiwala Kings Vs Rishikesh Dragons
-https://dai-fancode.pages.dev/mumbai/4249073_english_hls_a7d568bd9b25675_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Sunday, 6 September 2026 at 4:14:16 pm
+#EXTINF:-1 tvg-id="4249126" tvg-name="Bathinda Royals Vs Jalandhar Warriors" tvg-logo="https://images.fancode.com/aig/match/v1788273996414/4249126_CASACARDS_SPORTY_APP.png" tvg-language="Hindi" group-title="Cricket",HIN | Bathinda Royals Vs Jalandhar Warriors
+https://dai-fancode.pages.dev/mumbai/4249126_hindi_hls_a265e78b0c89006_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249126" tvg-name="Bathinda Royals Vs Jalandhar Warriors" tvg-logo="https://images.fancode.com/aig/match/v1788273996414/4249126_CASACARDS_SPORTY_APP.png" tvg-language="Punjabi" group-title="Cricket",PUN | Bathinda Royals Vs Jalandhar Warriors
+https://dai-fancode.pages.dev/mumbai/4249126_punjabi_hls_6f6ebaf41e55762_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249074" tvg-name="Herbertpur Knight Riders Vs Vikasnagar Dhamaka" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249074_53058_HKR_VD_fc-Web_fc-webtvbg.jpg" tvg-language="English" group-title="Cricket",ENG | Herbertpur Knight Riders Vs Vikasnagar Dhamaka
+https://dai-fancode.pages.dev/mumbai/4249074_english_hls_fd5290a55442730_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4247486" tvg-name="Birmingham City F.c. Vs Wolverhampton Wanderers F.c." tvg-logo="https://images.fancode.com/aig/match/v1784709183106/4247486_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Football",ENG | Birmingham City F.c. Vs Wolverhampton Wanderers F.c.
+https://dai-fancode.pages.dev/mumbai/4247486_english_hls_a4089a938b80982_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
